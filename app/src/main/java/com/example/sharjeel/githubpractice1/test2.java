@@ -3,13 +3,12 @@ package com.example.sharjeel.githubpractice1;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class test2 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
-        System.out.println("Helloworld!!!!!!!!!");
+        setContentView(R.layout.activity_test2);
+        System.out.println("Hello! AGAIN!!");
     }
 }
